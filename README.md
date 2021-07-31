@@ -8,12 +8,14 @@ The computer will select a random word from a list of words (words.txt) and let 
 At the beginning, the user is given 5 chances to guess the letters of the selected word
 For each guess, the computer should tell the player if the letter is in the selected word and print the position of these letter in the word (example: --a--a-, with "-" is an unknown letter)
 After 5 guesses, the player should enter the entire word: if it is correct they will get a score of 100+ (number of guessed letters * correct guesses), otherwise, they will get a score of (number of guessed letters * correct guesses).
+
 Example:
 
 I am thinking of a word that is 8  letters long! Try to guess this word!
 you have  5 guesses left!
 
 Please enter a letter: a
+
 wrong guess!
 --------
 
