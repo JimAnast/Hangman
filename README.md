@@ -46,6 +46,7 @@ you have  1 guesses left!
 Please enter a letter: p
 
 good guess!
+
 e-dp-e-e
 
 Please enter the corresponding word: endpiece
