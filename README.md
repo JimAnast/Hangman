@@ -12,6 +12,7 @@ After 5 guesses, the player should enter the entire word: if it is correct they 
 Example:
 
 I am thinking of a word that is 8  letters long! Try to guess this word!
+
 you have  5 guesses left!
 
 Please enter a letter: a
