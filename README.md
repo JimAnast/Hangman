@@ -25,18 +25,21 @@ you have  4 guesses left!
 Please enter a letter: e
 
 good guess!
+
 e----e-e
 
 you have  3 guesses left!
 Please enter a letter: d
 
 good guess!
+
 e-d--e-e
 
 you have  2 guesses left!
 Please enter a letter: t
 
 wrong guess!
+
 e-d--e-e
 
 you have  1 guesses left!
